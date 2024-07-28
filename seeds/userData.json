@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Janis Joplin",
+      "email": "example@hotmail.com",
+      "password": "password1"
+    },
+    {
+      "name": "Jerry Garcia",
+      "email": "example@gmail.com",
+      "password": "password12"
+    },
+    {
+      "name": "John Lennon",
+      "email": "example@aol.com",
+      "password": "password123"
+    }
+  ]

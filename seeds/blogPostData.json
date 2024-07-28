@@ -1,0 +1,26 @@
+[
+    {
+        "title": "What I'm Reading Today",
+        "description": "The Lord of the Rings trilogy follows the adventures of Frodo Baggins and his loyal gardener, Samwise Gamgee, as they journey to rid the world of the evil dark lord Sauron.",
+        "date_created": "January 1, 2001",
+        "user_id": 1
+    },
+    {
+        "title": "Hello World!",
+        "description": "What's shakin' today?",
+        "date_created": "May 1, 2021",
+        "user_id": 1
+    },
+    {
+        "title": "What's for dinner?",
+        "description": "Today, we're having a delicious, plain white pasta",
+        "date_created": "February 17, 2011",
+        "user_id": 2
+    },
+    {
+        "title": "What's this thing?",
+        "description": "What is this thing I found in the wall (pic)",
+        "date_created": "March 27, 2023",
+        "user_id": 3
+    }
+]

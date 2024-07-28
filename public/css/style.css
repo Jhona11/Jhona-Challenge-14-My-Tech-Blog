@@ -1,0 +1,75 @@
+header{
+    font-family: "Times New Roman", serif;
+}
+
+body{
+    background-color:aquamarine;
+}
+
+h1{
+    font-family: "Times New Roman", serif;
+    background-color:aqua ;
+    color:blanchedalmond;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+#blogName{
+    color:bisque;
+}
+
+main { font-family: "Times New Roman", serif;
+    margin-top: -5px;
+    background-color:blue;
+}
+
+.homepage-main {
+    margin-top:35px;
+}
+
+.user-name{
+    background-color: blueviolet;
+}
+
+.blogPost-main{
+    margin-top:325px
+}
+
+.navbar{
+    background-color: antiquewhite;
+}
+
+#logout{
+    background-color: brown;
+}
+
+#titleInput,
+#bodyInput,
+#comment,
+#email-login,
+#password-login,
+#name-signup,
+#email-signup,
+#password-signup {
+    background-color: azure;
+}
+
+.btn {
+    background-color: bisque;
+}
+
+.card-header {
+    background-color: black;
+}
+
+.card-body {
+    background-color:chocolate;
+}
+
+.card {background-color: chartreuse;
+    border-radius: 5px;
+}
+
+.card:hover {
+    border: 2px solid olivedrab;
+}
