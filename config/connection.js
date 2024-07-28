@@ -4,7 +4,7 @@ const Sequelize = require('sequelize');
 const sequelize = process.env.JAWSDB_URL
     ? new Sequelize(process.env.JAWSDB_URL)
     : new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PW, {
-        host: "postgresql://postgress:bDvDRFY1Ie5itpugrE0DRlLDQtMSmrHq@dpg-cqjajlmehbks73c8t8sg-a/tech_blog_db_maom",
+        host: process.env.HOSTNAME,
         dialect: 'postgres',
         dialectOptions: {
             decimalNumbers: true,
